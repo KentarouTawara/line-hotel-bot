@@ -63,3 +63,5 @@ gem 'line-bot-api'
 # dotenv
 gem 'dotenv-rails'
 
+# httpclient
+gem 'httpclient'
